@@ -1,4 +1,4 @@
 # Baigiamasis_darbas
 Šis projektas yra reverse image search. Jame naudojamas apmokintas Resnet-50 modelis kuris yra apmokintas ant imageNet duomenų. Surasti artimiausius kaimynus naudojamas NearestNeighbours metodas.
 # Naudojimas
-Parsisiusti jupiter notebook faila "Baigiamasis". Jame pakeisti kaggle crediantials i savo, ketvirtam bloke, kad galetum parsisiusti apmokymu duomenis. Taip pat reiketu prideti test forlderi su paveiksliiukais kuriuos noretume testuoti arba panaudoti prideta test aplanka. Belieka paleisti koda.
+Parsisiųsti jupiter notebook failą "Baigiamasis". Jame pakeisti kaggle prisijungimus i savo, ketvirtam bloke, kad galetum parsisiųsti apmokymų duomenis. Taip pat reiketų pridėti test aplanką su paveiksliukais, kuriuos noretume testuoti arba panaudoti pridetą test aplanką. Belieka paleisti kodą.
